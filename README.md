@@ -35,7 +35,7 @@ For your project, select the build tool that you feel most at ease with or that 
 2. Enter the city of destination.
 3. Enter customer data in the correct format (e.g: Jane Doe,2002), new line for each person, and type 'done' when finished:
 
-###Passanger types
+## Passanger types
 * Families (two adults and child/children)
 * Organized tour groups
 
