@@ -49,7 +49,7 @@ For your project, select the build tool that you feel most at ease with or that 
 Run the data analysis tool and check the namespaces in your enviornment ,modify them if needed. 
 
 ## Hypotheses Evaluation
-Run the Broker application provided by the lecturer to simulate actual sales and evaluate the effectiveness of the hypotheses. Multiple runs with different datasets will help in refining the hypotheses further.
+Run the Broker application provided by this respitory to simulate actual sales and evaluate the effectiveness of the hypotheses. Multiple runs with different datasets will help in refining the hypotheses further.
 
 ## Contributing
 
