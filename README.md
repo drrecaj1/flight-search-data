@@ -44,13 +44,18 @@ For your project, select the build tool that you feel most at ease with or that 
 ### Search result
 * The price decided by the search engine which utilizes a data analysis tool to find the best route possible for your group and it's price. It does this by comparing with other groups in the historical dataset with the same group type and departure and destination cities.
 
-# Usage
+## Usage
 
 Run the data analysis tool and check the namespaces in your enviornment ,modify them if needed. 
 
-# Hypotheses Evaluation
+## Hypotheses Evaluation
 Run the Broker application provided by the lecturer to simulate actual sales and evaluate the effectiveness of the hypotheses. Multiple runs with different datasets will help in refining the hypotheses further.
 
 ## Contributing
 
 This respitory is not dedicated for exteral use. No pull requests are available.
+
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to Professor Leonov Evgeny, whose guidance and provision of essential resources such as the datasets and the Broker application were invaluable to the success of this project. Their expertise and support have been a cornerstone of our development process.
